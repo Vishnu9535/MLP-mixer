@@ -1,0 +1,1 @@
+{"rev_norm_config": {"class_name": "RevNorm", "config": {"axis": 1, "eps": 1e-05, "affine": true}}, "rev_norm_instance_config": {"axis": 1, "eps": 1e-05, "affine": true}}
